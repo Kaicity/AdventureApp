@@ -1,0 +1,3 @@
+@AdventureApp_HostAddress = https://localhost:7175
+
+GET {{AdventureApp_HostAddress}}/api/product
