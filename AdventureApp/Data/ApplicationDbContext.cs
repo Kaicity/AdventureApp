@@ -11,5 +11,6 @@ namespace AdventureApp.Data
         }
 
         public DbSet<Product> Products { get; set; }
+
     }
 }
